@@ -1,9 +1,6 @@
-# MO3 Directory
-
-
 ## Directory Overview
 
-The main folder is **MO3**, which is structured into three subfolders:
+The main folder is structured into three subfolders:
 
 - `1dataprocess`: Contains data processing scripts and raw datasets.
 - `2mapviz`: Contains files related to map visualization and spatial data.
